@@ -22,7 +22,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media.discordapp.net/attachments/1048733373042016297/1214398234462654496/cowboy-bebop-cigarette.gif?ex=65f8f77d&is=65e6827d&hm=1d39d64ee4a3b7a65bf75e00d412da7f511e35f98b96e0e377bc8909f85bd5a5&=">
+  <img align="center" src="https://media.discordapp.net/attachments/1048732150121373749/1226033585312763976/cowboy-bebop-cigarette.gif?ex=66234bc1&is=6610d6c1&hm=1259da0d73ee55f0391bb8348df2e27d88dd9c444d8202f3cc0fdb5b6bebfad0&=">
 </p>
 <p>
 
