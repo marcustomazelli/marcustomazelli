@@ -16,7 +16,7 @@
 </details>
 
 <div>
-  <img width='800px'height="180cm" src="https://github-readme-stats.vercel.app/api?username=marcustomazelli&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/> 
+  <img width='800px'height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcustomazelli&layout=compact&langs_count=16&theme=darcula"/>
 </div>
 
 <!-- GIF -->
@@ -25,9 +25,7 @@
 </p>
 <br>
 <br>
-<div>
-  <img width='800px'height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcustomazelli&layout=compact&langs_count=16&theme=darcula"/>
-</div>
+
 
 
 ## Skills
