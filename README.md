@@ -19,10 +19,6 @@
   <img align="center"  height="130cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=marcustomazelli&hide_progress=true&theme=aura" )/>
 </div>
 
-
-<br>
-
-
 ## Skills
 ### Programming Languages
 ### Tools & Frameworks
