@@ -16,8 +16,9 @@
 </details>
 
 <div>
-  <img align="center"  width='950px'height="210cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=marcustomazelli&layout=donut&theme=aura" )/>
+  <img align="center"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=marcustomazelli&hide_progress=true&theme=aura" )/>
 </div>
+
 
 <br>
 
