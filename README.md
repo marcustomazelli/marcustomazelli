@@ -1,9 +1,6 @@
 # Hi There! 
 
 <!-- Presentation -->
-<p>
-  I'm Marcus, a technology lover.
-</p>
 
 <!-- Dropdown -->
 <details>
@@ -19,7 +16,3 @@
   <img align="center"  height="130cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=marcustomazelli&hide_progress=true&theme=gotham" )/>
 </div>
 
-## Skills
-### Programming Languages
-### Tools & Frameworks
-### Libraries
